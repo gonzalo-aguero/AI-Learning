@@ -1,0 +1,6 @@
+transformers
+torch
+python-dotenv
+huggingface_hub
+markdown
+Pygments
