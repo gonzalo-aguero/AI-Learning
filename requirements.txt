@@ -4,3 +4,10 @@ python-dotenv
 huggingface_hub
 markdown
 Pygments
+datasets
+jsonlines
+pandas
+torch
+config
+scikit-learn
+tensorflow
