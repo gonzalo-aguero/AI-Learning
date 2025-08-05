@@ -11,3 +11,5 @@ torch
 config
 scikit-learn
 tensorflow
+transformers[torch]
+pip install tf-keras

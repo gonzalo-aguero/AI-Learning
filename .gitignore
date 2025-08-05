@@ -11,3 +11,4 @@ __pycache__/
 FineTunning Course/practice/output_model/
 FineTunning Course/practice/checkpoint
 FineTunning Course/practice/data
+.ipynb_checkpoints
